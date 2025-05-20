@@ -1,3 +1,6 @@
 [submodule "PIDash"]
 	path = PIDash
 	url = https://github.com/Kaylam60/PIDash
+[submodule "Fast-Robots"]
+	path = Fast-Robots
+	url = https://github.com/Kaylam60/Fast-Robots
