@@ -4,3 +4,12 @@
 [submodule "Fast-Robots"]
 	path = Fast-Robots
 	url = https://github.com/Kaylam60/Fast-Robots
+[submodule "Cube-Craze-Cornell-Annual"]
+	path = Cube-Craze-Cornell-Annual
+	url = https://github.com/Kaylam60/Cube-Craze-Cornell-Annual
+[submodule "Robot-perception"]
+	path = Robot-perception
+	url = https://github.com/Kaylam60/Robot-perception
+[submodule "Heart-Rate-Monitor-"]
+	path = Heart-Rate-Monitor-
+	url = https://github.com/Kaylam60/Heart-Rate-Monitor-
